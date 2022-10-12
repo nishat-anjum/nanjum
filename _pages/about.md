@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. TigeritIT Bangladesh Ltd.
+subtitle: <a href='https://www.tigerit.com/'>Affiliations</a>. TigeritIT Bangladesh Ltd.
 
 profile:
   align: left
