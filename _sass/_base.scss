@@ -12,6 +12,14 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+.post-header-about {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
 table {
   td, th {
     color: var(--global-text-color);
@@ -90,10 +98,20 @@ blockquote {
   color: var(--global-theme-color);
 }
 
+.propic {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+}
+
 // Profile
 
 .profile {
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 
   .address {
     margin-bottom: 5px;
@@ -114,7 +132,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 100%;
     .address {
       p { display: block; }
     }
