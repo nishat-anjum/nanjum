@@ -98,13 +98,28 @@ blockquote {
   color: var(--global-theme-color);
 }
 
+.resume-item-title {
+  font-weight: 700;
+  margin: 0 0 0.75rem;
+  font-size: 1.5rem;
+  letter-spacing: -.05rem;
+  line-height: 1;
+}
+
 .propic {
-  width: 80%;
+  width: 50%;
   display: flex;
   justify-content: center;
 }
 
+.resume-item-details {
+  font-size: 1.125rem;
+  margin: 0 0 0.75rem;
+  line-height: 1;
+}
+
 // Profile
+
 
 .profile {
   width: 100%;
@@ -114,7 +129,7 @@ blockquote {
   justify-content: center;
 
   .address {
-    margin-bottom: 5px;
+    // margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
     p {

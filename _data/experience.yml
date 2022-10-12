@@ -1,0 +1,28 @@
+# Jobs
+# VP of Global Communications
+- company: Senior Software Engineer
+  position: TigerIt BD Ltd.
+  duration: Sept, 2019 &mdash; Present
+  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
+  responsibilities:
+    - Doing comprehensive RnD and providing expert support and guidance on architectural changes in ongoing initiatives taken by the development team.
+    - Spearhead and train a team of 4 software engineers to ascertain the successful completion of deliverables of 4 country-scale projects of the company.
+    - Continuously contribute in troubleshooting issues in production deployment and performance tuning.
+    - Review code for defects and quality against technical documents and standard practices.
+    - Designed and developed system which continuously verifies Rohingya AFIS And AFRS before approving new Voter registration application.
+
+
+- company: Software Engineer
+  position: TigerIt BD Ltd.
+  duration: Dec, 2015 &mdash; Sept, 2019
+  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
+  responsibilities:
+    - Extensively re-engineered and re-structured legacy software systems to improve the maintainability, scalability and increased performance by approximately 35%.
+    - Core architect of a large-scale data migration project involving a highly complex process with multiple source and target systems that successfully migrated around 120M demographic and biometric data within 52 hours.
+    - Developed High volume and low latency Restful APIs for integrating them to various client applications to ensure seamless operation serving response less than 30ms.
+    - Built real-time data streaming pipelines and applications using apache kafka that combine messaging and storage of both historical and real-time data. 
+    - Developed a high performance real-time fast data analytics application using apache druid, kudu and kafka.
+    - Designed and developed Report modules for multiple ongoing projects which involves complex query writing. 
+    - Assisted the Junior Software Engineers to solve technical problems and mentor them in writing high-quality code.
+
+
