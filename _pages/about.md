@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.tigerit.com/'>Affiliations</a>. TigeritIT Bangladesh Ltd.
-
+subtitle: software Practitioner
 profile:
   align: left
   image: jekyll.jpg

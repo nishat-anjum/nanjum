@@ -47,7 +47,7 @@ figure, img {
 blockquote {
   background: var(--global-bg-color);
   border-left: 2px solid var(--global-theme-color);
-  margin: 1.5em 10px;
+  margin: 0em 10px;
   padding: 0.5em 10px;
   font-size: 1.2rem;
 }
@@ -309,6 +309,7 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  text-align: center;
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;

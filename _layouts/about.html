@@ -24,7 +24,11 @@ layout: default
             <h1 class="post-title">
              {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
             </h1>
-            <p class="desc">{{ page.subtitle }}</p>
+            <p class="desc" style="font-size: 1.5em; margin-bottom: -6px">{{ page.subtitle }}</p>
+            <blockquote class="blockquote text-center">
+              <p class="mb-0" style="padding: .5rem 0;">I am not a great programmer; I am just a good programmer with great habits.</p>
+              <footer class="blockquote-footer">Kent Beck,<cite title="Source Title">The creator of extreme programming</cite></footer>
+            </blockquote>
           </header>
           {%- if page.profile.address %}
           <div class="address">
