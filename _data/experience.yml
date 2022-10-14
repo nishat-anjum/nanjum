@@ -2,7 +2,7 @@
 # VP of Global Communications
 - company: Senior Software Engineer
   position: TigerIt BD Ltd.
-  duration: Sept, 2019 &mdash; Present
+  duration: Oct, 2019 &mdash; Present
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
   responsibilities:
     - Doing comprehensive RnD and providing expert support and guidance on architectural changes in ongoing initiatives taken by the development team.
@@ -14,7 +14,7 @@
 
 - company: Software Engineer
   position: TigerIt BD Ltd.
-  duration: Dec, 2015 &mdash; Sept, 2019
+  duration: Jan, 2016 &mdash; Sept, 2019
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
   responsibilities:
     - Extensively re-engineered and re-structured legacy software systems to improve the maintainability, scalability and increased performance by approximately 35%.
@@ -24,5 +24,29 @@
     - Developed a high performance real-time fast data analytics application using apache druid, kudu and kafka.
     - Designed and developed Report modules for multiple ongoing projects which involves complex query writing. 
     - Assisted the Junior Software Engineers to solve technical problems and mentor them in writing high-quality code.
+
+
+- company: Associate Software Engineer
+  position: TherapBD Ltd.
+  duration: Oct, 2014 &mdash; Dec, 2015
+  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
+  responsibilities:
+    - Worked with Technical Staff to understand problems with software and correct them.
+    - Developed new features for the MAR  module of Therap application.
+    - Wrote a successful migration project which incorporated ETL process to store lookup standard diagnosis codes (e.g. ICD-9/10)
+    - Solved user reported bugs of different modules in Therap Application
+    - Learning and experimenting the usability of various technologies in Therap application
+
+
+- company: Junior Software Engineer
+  position: TherapBD Ltd.
+  duration: Sept, 2014 &mdash; Jan, 2013
+  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
+  responsibilities:
+    - Learning, installing and reviewing various technologies related to software development
+    - Investigated users reported bugs in the codebase and resolved them.
+    - Did code refactoring to increase readability and performance in different modules.
+
+
 
 
