@@ -98,5 +98,3 @@ academic_transcript: academic_transcript
     </object>
 </div>
 
-</article>
-

@@ -1,7 +1,7 @@
 ---
 layout: resume
 permalink: /resume/
-title: Academic Resume
+title: Resume
 nav: true
 nav_order: 4
 ---
