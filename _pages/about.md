@@ -5,7 +5,7 @@ permalink: /
 subtitle: software Practitioner
 profile:
   align: left
-  image: jekyll.jpg
+  image: selectedpp.jpg
   image_circular: true # crops the image to make it circular
   # address: >
   #   <p>Banani, Dhaka, Bangladesh</p>
