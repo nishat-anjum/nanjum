@@ -7,16 +7,17 @@ importance: 3
 category: work
 ---
 
-A highly distributed, concurrent and fault-tolerant migration project which successfully migrated 120M voter demographic and biometric data from legacy systems to Elasticsearch, Apache KUDU, Redis, Minio, Oracle, and Postgresql databases within 52 hours.
+A highly concurrent and fault-tolerant migration project successfully migrated 120 million voter demographic and biometric data from legacy systems to Elasticsearch, Apache KUDU, Redis, Minio, Oracle, and Postgresql databases within 42 hours. The project ran successfully in a highly distributed environment which made it fast enough.
 
     ---
-    technology_stack: Spring‑Scheduling, JDBC, Apache Kafka, Redis
+    technology_stack: Spring‑Scheduling, JDBC, Apache Kafka, Redis Reliable Queue.
     ---
 
 <h4 class="post-title">My Notable Contributions:</h4>
 <div class="row">
  <ul>
-<li>Core Architect and Developer of the entire project.</li>
+<li>I am the designer and Developer of the entire project.</li>
+<li>Basically, I have developed a framework for data migration that could be used for our multiple projects. This framework can handle only structured data.</li>
 <li>Applied <b>Reliable Concurrent Queue Pattern</b> to ensure high concurrency for enqueue and dequeue operations that delivered high throughput and low latency.</li>
 </ul>
 </div>
