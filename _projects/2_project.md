@@ -4,7 +4,7 @@ title: NID Card Management System
 description: A Web Application for Bangladesh Election Commission Officials 
 img: assets/img/cms_ec.jpg
 importance: 2
-category: work
+category: Industry
 ---
 
 The NID card application management system mainly facilitates the digital nid card application assessment, approval, and rejection processes. Besides that, the application has a report module that generates real-time data analytics for geolocation-wise voter data of our Country. The application mainly serves Bangladesh Election Commission(EC) Officials. 

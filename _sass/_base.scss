@@ -333,6 +333,10 @@ footer.sticky-bottom {
 
 // CV
 
+h5  {
+  color: #890707;
+}
+
 .cv {
   margin-bottom: 40px;
   
@@ -484,12 +488,13 @@ footer.sticky-bottom {
   }
 
   h2.category {
-    color: var(--global-divider-color);
+    color: var(--project-category-color);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
+    font-weight: bold;
   }
 }
 

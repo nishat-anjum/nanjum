@@ -5,7 +5,7 @@ link: https://hsenp.dotm.gov.np/everest-pub
 description: A Country Scale web application for Citizen of Nepal.
 img: assets/img/nepal.jpg
 importance: 4
-category: work
+category: Industry
 ---
 
 A web portal where citizen of Nepal can apply for High Security Enbossed (HSE) Number Plate for their Vehicles. They can apply for Numbre Plate reissue and Owership tansfer. Prior to this application, this vehicle registration procedure was a very lengthy process. This application made it easy for nepal citizen.

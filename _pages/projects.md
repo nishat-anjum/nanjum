@@ -5,7 +5,7 @@ permalink: /projects/
 description: List of Industrial and Academic Projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Industry, Academic]
 horizontal: false
 ---
 

@@ -4,7 +4,7 @@ title: Voter Data Migration Project
 description: An application to migrate Voter data from legacy system to multiple SQL and NoSQL databases.
 img: assets/img/data_mig.jpeg
 importance: 3
-category: work
+category: Industry
 ---
 
 A highly concurrent and fault-tolerant migration project successfully migrated 120 million voter demographic and biometric data from legacy systems to Elasticsearch, Apache KUDU, Redis, Minio, Oracle, and Postgresql databases within 42 hours. The project ran successfully in a highly distributed environment which made it fast enough.

@@ -5,7 +5,7 @@ link: https://services.nidw.gov.bd/nid-pub/
 description: A Country Scale web application for Citizen of Bangladesh 
 img: assets/img/bnid.png
 importance: 1
-category: work
+category: Industry
 ---
 
 A web portal application through which The citizens of Bangladesh can apply for a new National Identity Card. They also can request card correction or duplication. This application facilitated the procedure of voter registration. Before his application, people had to visit the Election commission office multiple times to register themselves as valid voter. Now, people can apply for the NID card sitting at their homes. In a nutshell, this is the pre-enrollment application step.

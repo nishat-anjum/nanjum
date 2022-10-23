@@ -4,7 +4,7 @@ title: Nepal Vehicle HSENP Application management System
 description: A Web Application for Nepal DoTM officials to oversee Number plate application.
 img: assets/img/everest-management.png
 importance: 5
-category: work
+category: Industry
 ---
 
 A Web Application for Nepal DoTM officials to oversee High-Security Embossed Number Plate(HSENP) applications as well as monitor plate printing steps from embossment to delivery to the vehicle owner. Before Delivery, Owner Biometric data are collected to verify them. The application is a bundle of three different software solutions, HSENP application management, Number Plate printing monitoring system, and vehicle tracking system. 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /academics/
 title: Academics
-description: Academic Degrees, Achievements and Certifications
+description: Academic Degrees, Research Interests, Achievements and Certifications
 nav: true
 nav_order: 1
 academic_transcript: academic_transcript
@@ -53,31 +53,46 @@ academic_transcript: academic_transcript
 </tbody></table>
 <hr>
 
-<!-- <h5 id="awards-achievements"><u>Awards &amp; Achievements</u></h5>
+<h5 id="awards-achievements">Research Interests</h5>
 <ul>
-  <li><strong>National Hackathon 2015</strong>. Developed an application to help prevent Sexual Harassment (one of the prominent problems of the country) in a 36 hour-long planning, designing and coding sprint.</li>
-  <li><strong>BASIS Code Warrior’s Challenge 2014</strong>. Developed a smart contact manager for iOS. Rank: Honorable Mention.</li>
-  <li><strong>CUET RMA RoboRace 2011</strong>. Rank: <strong>6<sup>th</sup></strong> (Team: DU Hello World).</li>
-  <li><strong>University of Dhaka National Collegiate Programming Contest (NCPC) 2011</strong>. Rank: <strong>9<sup>th</sup></strong> (Team: DU Hello World).</li>
-  <li><strong>Bangladesh University Inter-University Collegiate Programming Contest 2011</strong>. Rank: <strong>9<sup>th</sup></strong> (Team: DU Hello World).</li>
-  <li><strong>Daffodil Inter-University Collegiate Programming Contest 2010</strong>. Rank: <strong>12<sup>th</sup></strong> (Team: DU Hello World).</li>
-  <li><strong>BUBT CSE Fiesta 2010</strong>. Rank: Honorable Mention (Team: DU Hello World).</li>
-  <li><strong>CSEDU Intra-Batch Programming Contest 2009</strong>. Rank: <strong>7<sup>th</sup></strong>.</li>
+  <li>Software Engineering</li>
+  <li>Empirical Software Engineering</li>
+  <li>Application of Machine Learning In Software Engineering</li>
+  <li>Database and knowledge‑base systems</li>
+  <li>Data Mining</li>
+  <li>Data Visualization</li>
+  <li>Human Computer Interaction</li>
 </ul>
-<hr> -->
+
+<hr>
+
+<h5>Academic Research</h5>
+<strong>Title: Throughput Maximization in Device to Device(D2D) Enabled Cellular Network.</strong><br>
+<p>In this work, We addressed the spectrum-sharing problem between cellular and underlaying D2D communication. Our main goal was to maximize the throughput of the underlying 3G cellular network in non-orthogonal resource-sharing mode. We proposed a Scheduled resource-sharing Algorithm for eNodeB that intelligently identified potential D2D connection pairs and optimally shared UL and DL resources. The algorithm calculated The SINR of each cellular and probable D2D pairs and selected the resource with optimal SINR for sharing with D2D pair.</p>
+
+<hr>
+
+<h5 id="awards-achievements">Awards &amp; Achievements</h5>
+<ul>
+  <li><strong>Champion</strong>, Women Table Tennis Tournament-2014 arranged by TherapBD Ltd</li>
+  <li><strong>University Stipend</strong>, Shamsunnahar Trust Scholarship 2011</li>
+  <li><strong>Education Board Scholarship</strong>, HSC Board Exam 2007</li>
+  <li><strong>Education Board Scholarship</strong>, SSC Board Exam 2005</li>
+</ul>
+<hr>
+
+<hr>
 
 <h5>Independent Coursework</h5>
+<strong>Machine Learning Specialization</strong> | Coursera <a target="_blank" href="https://www.coursera.org/specializations/machine-learning-introduction">[Ongoing]</a>
+<br>
 <p><strong>Neural Networks and Deep Learning</strong> | Coursera <a target="_blank" href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning">[Ongoing]</a>
-<br>
-<strong>Linear and Discrete Optimization</strong> | Coursera <a target="_blank" href="/assets/pdf/Coursera_Certificate_v1-9718203813827.pdf">[Certificate]</a>
-<br>
-<strong>Machine Learning</strong> | Coursera <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/GDDBFB582MUQ">[Certificate]</a>
-<br>
-<strong>Programming Mobile Applications for Android Handheld Systems</strong> | Coursera <a target="_blank" href="/assets/pdf/Coursera_Certificate_v1-9712463813827.pdf">[Certificate]</a></p>
+<hr>
+
 <hr>
 
 <h5>Undergraduate Coursework</h5>
-<p>Scanned copy of undergraduate transcript.</p>
+<p>Scanned copy of undergraduate transcript. <a target="_blank" href="../assets/pdf/academic_transcript.pdf"><i class="fa fa-external-link-alt"></i></a></p>
 
 <!-- <div class="embed-responsive" style="padding-bottom:130%">
     <object data="{{ academic_transcript | prepend: '/assets/pdf' | prepend: site.baseurl}}" type="application/pdf" width="100%" height="100%">
@@ -89,12 +104,12 @@ academic_transcript: academic_transcript
 </div> -->
 
 
-<div class="embed-responsive" style="padding-bottom:130%">
+<!-- <div class="embed-responsive" style="padding-bottom:130%">
     <object data="../assets/pdf/academic_transcript.pdf" type="application/pdf" width="100%" height="100%">
         <p>
             It appears you don't have a PDF plugin for this browser.
             You can <a href="../assets/pdf/academic_transcript.pdf">click here to download the PDF file.</a>
         </p>
     </object>
-</div>
+</div> -->
 
