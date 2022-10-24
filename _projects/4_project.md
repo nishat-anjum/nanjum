@@ -23,6 +23,6 @@ A web portal where citizen of Nepal can apply for High Security Enbossed (HSE) N
   <li>I had little controbution in UI designing. But I directed my team member who eas re-desiging the UI using vue.js</li>
   <li>After first phase release, I developed and integrated some modules that automatised sequential English Number Plate assignment job</li>
   <li>Development Appoinment module and integrated it to public portal</li>
-  <li>Continuously giving support and contributing in troubleshooting issues in production. Writing complex queries to generate Reports.</li>
+  <li>Continuously giving support and contributing to troubleshoot issues in production. Writing complex queries to generate Reports.</li>
 </ul>
 </div>

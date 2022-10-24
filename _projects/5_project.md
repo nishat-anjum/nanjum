@@ -20,7 +20,7 @@ A Web Application for Nepal DoTM officials to oversee High-Security Embossed Num
 <li>I am the sole developer of the backend service architecture. Wrote high data volume and low latency web services for both web and desktop applications.</li>
 <li>The system is a bundle of three different applications that share the same user credentials base. To ease login process, implemented Single Sign On (SSO) concepts using Spring security-OAuth 2.0.</li>
 <li>Wrote Rest APIs for android devices to load Vehicle and owner details.</li>
-<li>Wrote high performant APIs to upload vehicle registration data both online and offline.</li>
+<li>Wrote high performant APIs for web and desktop applications to upload vehicle registration data both online and offline.</li>
 <li>Now Continuously contributing to troubleshooting issues in production deployment.</li>
 </ul>
 </div>
