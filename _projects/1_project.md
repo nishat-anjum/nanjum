@@ -19,10 +19,10 @@ A web portal application through which The citizens of Bangladesh can apply for 
 <h4 class="post-title">My Notable Contributions:</h4>
 <div class="row">
  <ul>
- <li>Co-working with Machine Learning Team to implement a Face Recognition System(AFRS). Will integrate that in this application to verify Rohingya<li>
-  <li>I am the Core Architect and Developer of the backend Service. Implemented high volume and low latency secured RESTful web services using Spring MVC, Spring Security, and spring JPA</li>
-  <li>Configured Redis, Elasticsearch, Clustered Redis, Oracle Database, Postgresql Database, and Apache KUDU in the project with connection pooling<li>
-  <li>Developed a module to </li>
+ <li>Co-working with Machine Learning Team to implement a Face Recognition System(AFRS). Will integrate that in this application to verify Rohingya.</li>
+  <li>I am the Core Architect and Developer of the backend Service. Implemented high volume and low latency secured RESTful web services using Spring MVC, Spring Security, and spring JPA.</li>
+  <li>Configured Redis, Elasticsearch, Clustered Redis, Oracle Database, Postgresql Database, and Apache KUDU in the project with connection pooling</li>
+  <li>Developed a module to.</li>
   <li>After the first phase release, took the initiative to improve the entire UI and UX of the application, ensuring responsiveness.</li>
   <li>In second phase release, refactored both service side and client side Codebase to improve performance by <b>25%</b>. Used <b>Redis for session management and session state monitoring</b> in a highly distributed environment.</li>
   <li>Continuously contributing to troubleshooting issues in production deployment.</li>
