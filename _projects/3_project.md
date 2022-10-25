@@ -2,7 +2,7 @@
 layout: page
 title: Voter Data Migration Project
 description: An application to migrate Voter data from legacy system to multiple SQL and NoSQL databases.
-img: assets/img/data_mig.jpeg
+img: assets/img/ETL-Process.jpg
 importance: 3
 category: Industry
 ---

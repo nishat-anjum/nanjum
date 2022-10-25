@@ -2,8 +2,8 @@
 layout: page
 title: Vehicle Tracking System
 description: An Application for tracking vehicle by interfacing with ALIEN RFID Reader.
-img: assets/img/everest-management.png
-importance: 5
+img: assets/img/vehicle-tracking.png
+importance: 6
 category: Industry
 ---
 

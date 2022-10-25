@@ -2,7 +2,7 @@
 layout: page
 title: NTMC Central Datahub
 description: An Application for National Telecommunication Monitoring Centre (NTMC) of Bangladesh
-img: assets/img/everest-management.png
+img: assets/img/datahub2.png
 importance: 7
 category: Industry
 ---

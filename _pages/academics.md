@@ -81,14 +81,10 @@ academic_transcript: academic_transcript
 </ul>
 <hr>
 
-<hr>
-
 <h5>Independent Coursework</h5>
 <strong>Machine Learning Specialization</strong> | Coursera <a target="_blank" href="https://www.coursera.org/specializations/machine-learning-introduction">[Ongoing]</a>
 <br>
 <p><strong>Neural Networks and Deep Learning</strong> | Coursera <a target="_blank" href="https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning">[Ongoing]</a>
-<hr>
-
 <hr>
 
 <h5>Undergraduate Coursework</h5>
