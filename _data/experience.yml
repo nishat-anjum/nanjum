@@ -1,8 +1,21 @@
 # Jobs
 # VP of Global Communications
+- company: Principal Software Engineer
+  position: TigerIt BD Ltd.
+  duration: Oct, 2022 &mdash; Present
+  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
+  responsibilities:
+    - Supervising and training a Development team of four software engineers.
+    - Providing technical guidance to the team and overseeing the technical aspects of four Government projects and upcoming Projects.
+    - Improving the performance of existing software solutions.
+    - Investigating Project related objections and taking necessary measurements to ensure optimal software performance.
+    - Regularly attend team meetings to discuss projects, brainstorm ideas, and propose solutions to any issues.
+    - Designing, coding, and debugging new projects.
+
+
 - company: Senior Software Engineer
   position: TigerIt BD Ltd.
-  duration: Oct, 2019 &mdash; Present
+  duration: Oct, 2019 &mdash; Sept 2022
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
   responsibilities:
     - Spearhead and train a team of 4 software engineers to ascertain the successful completion of deliverables of 4 country-scale projects of the company.
@@ -15,7 +28,7 @@
 
 - company: Software Engineer
   position: TigerIt BD Ltd.
-  duration: Jan, 2016 &mdash; Sept, 2019
+  duration: Dec, 2015 &mdash; Sept, 2019
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
   responsibilities:
     - Extensively re-engineered and re-structured legacy software systems to improve the maintainability, scalability and increased performance by approximately 35%.
@@ -41,7 +54,7 @@
 
 - company: Junior Software Engineer
   position: TherapBD Ltd.
-  duration: Sept, 2014 &mdash; Jan, 2013
+  duration: Jan, 2013 &mdash; Sept, 2014
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
   responsibilities:
     - Learning, installing and reviewing various technologies related to software development

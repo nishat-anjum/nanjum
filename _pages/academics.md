@@ -31,7 +31,7 @@ academic_transcript: academic_transcript
 <p><strong>CGPA</strong>: 5.00/5.00 <br>
 <strong>Govt. Girls High School, Bogura, Bangladesh</strong> <br>
 <hr>
-<h5>Language Proficiency (IELTS Academic)<a target="_blank" href="/assets/pdf/Mushfekur_Rahman_IELTS_Report.pdf"><i class="fa fa-external-link-alt"></i></a></h5>
+<h5>Language Proficiency (IELTS Academic)<a target="_blank" href="/assets/pdf/IELTS.pdf"> <i class="fa fa-external-link-alt"></i></a></h5>
 
 <tbdoy>
         </tbdoy><table class="table">
@@ -68,13 +68,13 @@ academic_transcript: academic_transcript
 
 <h5>Academic Research</h5>
 <strong>Title: Throughput Maximization in Device to Device(D2D) Enabled Cellular Network.</strong><br>
-<p>In this work, We addressed the spectrum-sharing problem between cellular and underlaying D2D communication. Our main goal was to maximize the throughput of the underlying 3G cellular network in non-orthogonal resource-sharing mode. We proposed a Scheduled resource-sharing Algorithm for eNodeB that intelligently identified potential D2D connection pairs and optimally shared UL and DL resources. The algorithm calculated The SINR of each cellular and probable D2D pairs and selected the resource with optimal SINR for sharing with D2D pair.</p>
+<p>In this work, We addressed the spectrum‑sharing problem between cellular and underlaying D2D communication. Our main goal was to maximize the throughput of the underlying 3G cellular network in non‑orthogonal Resource‑Sharing mode. We proposed a Scheduled resource‑sharing Algorithm for eNodeB that intelligently identified potential D2D connection pairs and optimally shared UpLink and DownLink resources by calculating SINR for each pair.</p>
 
 <hr>
 
 <h5 id="awards-achievements">Awards &amp; Achievements</h5>
 <ul>
-  <li><strong>Champion</strong>, Women Table Tennis Tournament-2014 arranged by TherapBD Ltd</li>
+  <li><strong>Runner‑Up</strong>, Women Table Tennis Tournament-2014 arranged by TherapBD Ltd</li>
   <li><strong>University Stipend</strong>, Shamsunnahar Trust Scholarship 2011</li>
   <li><strong>Education Board Scholarship</strong>, HSC Board Exam 2007</li>
   <li><strong>Education Board Scholarship</strong>, SSC Board Exam 2005</li>
@@ -88,7 +88,7 @@ academic_transcript: academic_transcript
 <hr>
 
 <h5>Undergraduate Coursework</h5>
-<p>Scanned copy of undergraduate transcript. <a target="_blank" href="../assets/pdf/academic_transcript.pdf"><i class="fa fa-external-link-alt"></i></a></p>
+<p>Scanned copy of undergraduate transcript. <a target="_blank" href="../assets/pdf/academic_transcript.pdf"> <i class="fa fa-external-link-alt"></i></a></p>
 
 <!-- <div class="embed-responsive" style="padding-bottom:130%">
     <object data="{{ academic_transcript | prepend: '/assets/pdf' | prepend: site.baseurl}}" type="application/pdf" width="100%" height="100%">
