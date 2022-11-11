@@ -74,8 +74,7 @@ academic_transcript: academic_transcript
 
 <h5 id="awards-achievements">Awards &amp; Achievements</h5>
 <ul>
-  <li><strong>Runner‑Up</strong>, Women Table Tennis Tournament-2014 arranged by TherapBD Ltd</li>
-  <li><strong>University Stipend</strong>, Shamsunnahar Trust Scholarship 2011</li>
+  <li><strong>Runner‑Up</strong>, Women Table Tennis Tournament-2015 arranged by TherapBD Ltd</li>
   <li><strong>Education Board Scholarship</strong>, HSC Board Exam 2007</li>
   <li><strong>Education Board Scholarship</strong>, SSC Board Exam 2005</li>
 </ul>
