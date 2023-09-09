@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <section class="content-section">
-    <strong><h4 class="resume-item-title" itemprop="name">Technical Experties</h4></strong>
+    <strong><h4 class="resume-item-title" itemprop="name">Technical Expertise</h4></strong>
     <!-- On rows -->
     <strong>Language:</strong>&nbsp; Java, Python, C/C++, JavaScript, TypeScript, R <br>
     <strong>Frameworks:</strong>&nbsp; Spring [Boot, MVC, Webflow, Security, Data JPA, Batch, Hateoas, GraphQL], Python Flask, Angular, Hibernate, JPA, Mockito<br>
