@@ -19,7 +19,7 @@ academic_transcript: academic_transcript
   }
 </style>
 
-<h5>BSc (Honours) in Computer Science &amp; Engineering (2007 - 2011)</h5>
+<h5>BSc (Honours) in Computer Science &amp; Engineering (March 2008 - April 2012)</h5>
 <p><strong>CGPA</strong>: 3.37 (3.40 in last 2 years) <br>
 <strong>University of Dhaka, Bangladesh</strong> <br>
 <br>
@@ -55,14 +55,13 @@ academic_transcript: academic_transcript
 
 <h5 id="awards-achievements">Research Interests</h5>
 <ul>
-  <li>Software Engineering</li>
   <li>Artificial Intelligence and Machine Learning</li>
-  <li>Empirical Software Engineering</li>
-  <li>Application of Machine Learning In Software Engineering</li>
   <li>Database and knowledge‑base systems</li>
   <li>Data Mining</li>
   <li>Data Visualization</li>
-  <li>Human Computer Interaction</li>
+  <li>Software Engineering</li>
+  <li>Empirical Software Engineering</li>
+  <li>Application of Machine Learning In Software Engineering</li>
 </ul>
 
 <hr>
