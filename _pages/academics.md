@@ -69,7 +69,7 @@ academic_transcript: academic_transcript
 <h5>Academic Research</h5>
 <strong>Title: Throughput Maximization in Device to Device(D2D) Enabled Cellular Network.</strong><br>
 <p>In this work, We addressed the spectrum‑sharing problem between cellular and underlaying D2D communication. Our main goal was to maximize the throughput of the underlying 3G cellular network in non‑orthogonal Resource‑Sharing mode. We proposed a Scheduled resource‑sharing Algorithm for eNodeB that intelligently identified potential D2D connection pairs and optimally shared UpLink and DownLink resources by calculating SINR for each pair.</p><br>
-<strong>Scanned copy of Thesis Report: <a target="_blank" href="../assets/pdf/report.pdf"> <i class="fa fa-external-link-alt"></i></a><strong>
+<strong>Scanned copy of Thesis Report: <a target="_blank" href="../assets/pdf/thesis_book.pdf"> <i class="fa fa-external-link-alt"></i></a><strong>
 
 <hr>
 
